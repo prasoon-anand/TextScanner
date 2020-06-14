@@ -3,6 +3,11 @@
 ## Description
 TextScanner is an android application that converts an image to text, you can click and crop image or you can select an image from your gallery to proceed and convert it into its text equivalent. 
 
+## Technology and Language
+- Android Studio
+- Google ML Kit
+- Java
+
 ## Environment
 XavHunt is made uin Android Studio with JAVA. Using Google ML Kit.
 
