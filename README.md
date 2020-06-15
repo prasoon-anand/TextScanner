@@ -23,6 +23,7 @@ XavHunt is made uin Android Studio with JAVA. Using Google ML Kit.
 
 ## Screenshots
 ![](https://github.com/prasoon-anand/TextScanner/blob/master/Screenshots/1.png)
+<img src="https://github.com/prasoon-anand/TextScanner/blob/master/Screenshots/1.png" width="50">
 ![Splash](https://github.com/prasoon-anand/TextScanner/blob/master/Screenshots/2.jpg)
 ![Homescreen](https://github.com/prasoon-anand/TextScanner/blob/master/Screenshots/3.jpg)
 ![Options](https://github.com/prasoon-anand/TextScanner/blob/master/Screenshots/4.jpg)
