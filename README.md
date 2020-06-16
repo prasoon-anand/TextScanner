@@ -9,7 +9,7 @@ TextScanner is an android application that converts an image to text, you can cl
 - Java
 
 ## Environment
-XavHunt is made uin Android Studio with JAVA. Using Google ML Kit.
+XavHunt is made in Android Studio with JAVA. Using Google ML Kit.
 
 ### Prerequisites
 1. Installing Android Studio
