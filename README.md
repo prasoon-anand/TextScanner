@@ -12,9 +12,9 @@ TextScanner is an android application that converts an image to text, you can cl
 XavHunt is made in Android Studio with JAVA. Using Google ML Kit.
 
 ### Prerequisites
-1. Installing Android Studio
+1. Installing Android Studio:
 - To install Android Studio, go to [Android Studio](https://developer.android.com/studio).
-2. For setting up dependencies 
+2. For setting up dependencies:
 - For setting up Google ML dependencies and reference, go to [Google ML Kit](https://developers.google.com/ml-kit).
 
 ## Video
