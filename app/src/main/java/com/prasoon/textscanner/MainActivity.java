@@ -1,3 +1,7 @@
+/*
+* Author: Prasoon Anand
+*/
+
 package com.prasoon.textscanner;
 
 import androidx.annotation.NonNull;
